@@ -12,6 +12,10 @@
   ],
   "author": "corn3lius <mkboyle@gmail.com>",
   "license": "MIT",
-  "repository" : "git@github.com:corn3lius/qtBinaryJsonHelper.git"
-
+  "repository": "git@github.com:corn3lius/qtBinaryJsonHelper.git",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "printf": "^0.2.5",
+    "should": "^11.2.0"
+  }
 }

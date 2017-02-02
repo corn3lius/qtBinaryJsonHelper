@@ -69,8 +69,13 @@
 'use strict';
 
 var util= require("util");
-var printf = require("printf");
-
+try {
+    var printf = require("printf");
+}
+catch(ex){
+    console.log("No printf module");
+    var printf = undefined;
+}
 function QtBin(buffer){
     //
     // IF NOT buffer return error ?
