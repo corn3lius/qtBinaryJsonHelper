@@ -1,5 +1,5 @@
 {
-  "name": "qtbinaryjsonhelper",
+  "name": "qt-binary-json-helper",
   "version": "0.0.1",
   "description": "Helper to convert binary stream of json objects in Qt into usable json. ",
   "main": "qtBinaryJsonHelper.js",
