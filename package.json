@@ -11,5 +11,7 @@
     "qt"
   ],
   "author": "corn3lius <mkboyle@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository" : "git@github.com:corn3lius/qtBinaryJsonHelper.git"
+
 }
